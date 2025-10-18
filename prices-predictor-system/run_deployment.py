@@ -1,6 +1,6 @@
 import click
 from pipelines.deployment_pipeline import (
-    continuous_deplyment_pipeline,
+    continuous_deployment_pipeline,
     inference_pipeline
 )
 from rich import print
